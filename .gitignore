@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+venv/
+data/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pth
+*.pt
+*.npy
+outputs/
+lab1.zip
+/.worktrees/
